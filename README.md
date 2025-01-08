@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **chaudharyreepa@gmail.com**
+- 📫 How to reach me **veerrpratapsingh@gmail.com**
 
 
 
