@@ -1,125 +1,119 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=180&section=header&text=Veer%20Pratap%20Singh&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%26%20AI%20Researcher&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Veer Pratap Singh, AI & Full-Stack Engineer: LLM apps, retrieval and reranking, MLOps, IoT data pipelines">
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Full-Stack+Developer;AI+%26+Machine+Learning+Researcher;Next.js+16+%7C+TypeScript+%7C+Python+%7C+React;Building+Local-First+Apps+%26+Scalable+Web+Systems" alt="Typing SVG" />
-</p>
+I build LLM applications, retrieval and reranking pipelines, MLOps systems and real-time IoT data pipelines, and I like owning the whole path from raw data to a deployed, monitored service. I'm doing an M.Sc. in Data and Knowledge Engineering at Otto von Guericke University Magdeburg, and I spent 15 months as a software engineer at Swaja Robotics, building data pipelines for 100+ connected devices.
 
-<p align="center">
-  <a href="https://veer-pratap-singh-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/veer-pratap-singh07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Veer_Pratap_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/veersingh0707" target="_blank">
-    <img src="https://img.shields.io/badge/X-@veersingh0707-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="mailto:veerrpratapsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-veerrpratapsingh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Open to working-student (Werkstudent) roles in AI, data, cloud and full-stack engineering, starting now.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veer-pratapsingh&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile Views" />
-</p>
+[Portfolio](https://veer-pratap-singh-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/veer-pratap-singh07/) · [Email](mailto:veerrpratapsingh@gmail.com) · [X](https://x.com/veersingh0707)
 
----
+### Selected work
 
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am a **Software Engineer** and **AI/ML Researcher** focused on building high-performance web systems, trustworthy machine learning pipelines, and thoughtful developer tools.
+**[AFS In-line Spectroscopy Assistant](https://github.com/Adarshpandey2003/afs_national_ai_hackathon)**<br>
+<sub>National AI Hackathon 2026 · team project</sub>
 
-- 🎓 **Research & Academic Focus**: Investigating algorithmic bias and fairness auditing in Recommender Systems (HCAI project on the OULAD dataset at OvGU).
-- 🚀 **Full-Stack Engineering**: Architecting modern production web applications using **Next.js 16**, **React 19**, and **TypeScript**. Shipped 7+ commercial client websites across hospitality, commerce, and technology sectors.
-- 🖥️ **Local-First & Desktop**: Author of **[Focus Guardian](https://github.com/veer-pratapsingh/focus-guardian)**, a local-first Windows session protector engineered to preserve deep work.
-- 🧠 **Machine Learning & Vision**: Hands-on practitioner in Computer Vision (Sign Language Recognition, Object Detection) and Data Structures & Algorithms.
+Four LangGraph agents (clarifier, ReAct researcher, writer, critic) turn an industrial customer's enquiry into a first technical assessment. Hybrid FAISS + BM25 retrieval; the critic checks every citation and number against its source before the report goes out.
 
----
+<sub>Python · LangGraph · DeepSeek · FastAPI · React · [live demo](https://afsnationalaihackathon.vercel.app)</sub>
 
-### 🌟 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack | Repository |
-|:---|:---|:---|:---:|
-| **[Focus Guardian](https://github.com/veer-pratapsingh/focus-guardian)** | Local-first Windows focus guardian with application and URL allow-lists to protect deep work sessions from distraction. | `JavaScript` `Desktop` `Local-First` | [Code →](https://github.com/veer-pratapsingh/focus-guardian) |
-| **[HCAI Fairness RecSys](https://github.com/veer-pratapsingh/HCAI-fairness-recsys)** | Fairness auditing and mitigation in adaptive learning pathway recommendations on the OULAD dataset (OvGU HCAI). | `Python` `Machine Learning` `RecSys` | [Code →](https://github.com/veer-pratapsingh/HCAI-fairness-recsys) |
-| **[Studio Portfolio](https://github.com/veer-pratapsingh/portfolio)** | Hospitality-focused studio portfolio featuring 7 delivered client websites, dynamic Open Graph metadata, and reduced-motion UI. | `Next.js 16` `React 19` `TypeScript` | [Code →](https://github.com/veer-pratapsingh/portfolio) |
-| **[Sign Language Detection](https://github.com/veer-pratapsingh/Final-Year-Project-Sign-Language-Detection)** | Real-time computer vision gesture detection and sign language recognition pipeline utilizing deep learning. | `Python` `OpenCV` `Deep Learning` | [Code →](https://github.com/veer-pratapsingh/Final-Year-Project-Sign-Language-Detection) |
+**[Fairness in LLM-based learning recommendation](https://github.com/veer-pratapsingh/HCAI-fairness-recsys)**<br>
+<sub>Human-Centred AI project · OVGU 2026</sub>
 
----
+Retrieve-then-rerank on 10.6M OULAD clickstream events: collaborative filtering retrieves 50 candidates, LLMs rerank the top 10, benchmarked against ALS and SASRec over 5 seeds. Post-hoc reranking cut the equal-opportunity gap by 10% at a 13% recall cost.
 
-### 🛠️ Tech Stack & Skills
+<sub>Python · PyTorch · Gemini, Mistral, DeepSeek, GPT-4o-mini · pytest</sub>
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
+**Airline satisfaction MLOps pipeline**<br>
+<sub>MLOps team project · OVGU 2026 · code on university GitLab</sub>
 
-<details open>
-<summary><b>Frontend & Full-Stack</b></summary>
-<br/>
+Nine-step pipeline on ~130k records behind a four-stage GitLab CI/CD: Feast feature store, Optuna-tuned models tracked in MLflow, a ROC-AUC gate for champion and challenger promotion, FastAPI serving with an 80/20 traffic split, Grafana monitoring.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-</details>
+<sub>Python · Feast · MLflow · Docker · FastAPI · Grafana</sub>
 
-<details open>
-<summary><b>AI, Machine Learning & Data</b></summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-</details>
+**[Focus Guardian](https://github.com/veer-pratapsingh/focus-guardian)**<br>
+<sub>Windows desktop app · v0.2</sub>
 
-<details open>
-<summary><b>Tools & Platforms</b></summary>
-<br/>
+A local-first focus app: you choose the apps and websites a session needs, and anything else is interrupted with a full-screen reminder of what you meant to finish. Companion Chrome extension, tray mode, no account, no cloud.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-</details>
+<sub>JavaScript · Electron · Chrome extension</sub>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Activity & Statistics
+**[md forge](https://github.com/veer-pratapsingh/md-forge)**<br>
+<sub>Web tool</sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=veer-pratapsingh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=veer-pratapsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+Converts PDF, Word, Excel, PowerPoint, HTML and more to clean Markdown in the browser, and shows how many tokens and dollars that saves before a file goes to an LLM. Nothing is uploaded.
 
----
+<sub>JavaScript · pdf.js · SheetJS · gpt-tokenizer · [live](https://md-forge-teal.vercel.app)</sub>
 
-<p align="center">
-  <i>"Passionate about turning complex research into reliable, impactful software."</i>
-</p>
-<p align="center">
-  <b>Let's build something great together.</b> Reach out on <a href="https://www.linkedin.com/in/veer-pratap-singh07/">LinkedIn</a> or via <a href="mailto:veerrpratapsingh@gmail.com">email</a>!
-</p>
+</td>
+<td width="50%" valign="top">
+
+**[Sign-language detection](https://github.com/veer-pratapsingh/Final-Year-Project-Sign-Language-Detection)**<br>
+<sub>B.Tech research · published</sub>
+
+Real-time sign-language and hand-gesture recognition with deep learning and OpenCV, reaching 99.7% accuracy on 34,000+ images.
+
+<sub>Python · OpenCV · deep learning</sub>
+
+</td>
+</tr>
+</table>
+
+Also: websites for hotels, bars and small businesses, built with Inderpreet Singh ([studio portfolio](https://veer-pratap-singh-portfolio.vercel.app)), and a Unity 6 training simulator of a biogas plant, built with chemical-engineering students.
+
+### Experience
+
+**Software Engineer, Swaja Robotics** · Jul 2024 – Sep 2025<br>
+Real-time MQTT pipelines in Python and SQL for 100+ connected devices, a home-automation platform on Raspberry Pi (Python, Electron, REST APIs, PostgreSQL), and Power BI and Tableau dashboards that improved monitoring efficiency by 30%.
+
+**Technology Intern, UMUN Tech** · 2023–24<br>
+Client websites and web apps deployed on Azure, and a real-time library space booking system, from stakeholder interviews to launch.
+
+**Intern, IIT Kanpur** · 2023<br>
+An interactive virtual fluid-chemistry lab with 15+ animated experiments, used remotely by 500+ students.
+
+### Toolbox
+
+- **AI & LLM:** LangChain, LangGraph, FAISS, LLM APIs (OpenAI, Gemini, DeepSeek, Mistral, NVIDIA NIM), retrieve-then-rerank, prompt engineering, SASRec, NLP, computer vision
+- **Machine learning:** PyTorch, scikit-learn, TensorFlow/Keras, XGBoost, LightGBM, Optuna, statistical testing
+- **MLOps:** MLflow, Feast, Docker, GitLab CI/CD, FastAPI, Prometheus, Grafana
+- **Data & cloud:** SQL, PostgreSQL, Supabase, ETL/ELT, MQTT, AWS, Azure, Power BI, Tableau
+- **Languages & web:** Python, TypeScript, JavaScript, C/C++, C#, React, Next.js, Node.js, Express, Electron
+
+### Education & certifications
+
+**M.Sc. Data and Knowledge Engineering**, Otto von Guericke University Magdeburg · since 2025<br>
+**B.Tech Computer Science and Engineering (AI & ML)**, AKTU, MIET Meerut · 2020–24 · First Division with Distinction
+
+AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Microsoft Power BI Data Analyst Associate (PL-300) · Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fundamentals (DP-900)
+
+### Beyond code
+
+- **Founder and President, Intellia AI & ML Society** (2022–24): built it to 60+ members; ran 5+ hackathons and 10+ hands-on trainings reaching 1,000+ students.
+- **Cloud Computing Head, Microsoft Learn Student Ambassadors** (2023–24): trained 150+ students in Azure fundamentals through 10+ workshops.
+- **Team Lead, talk2move** (2025–26): promoted from fundraiser after three months; led a team raising funds for Plan International, SOS-Kinderdörfer, CARE and WWF alongside my studies.
+- **Awards:** Gold Medal in AI (Wipro TalentNext) · 1st place, Cisco ThingQbator competition
+- **Languages:** English (C1) · German (A2, improving) · Hindi (native)
