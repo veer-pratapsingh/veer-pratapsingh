@@ -9,7 +9,7 @@ I build LLM applications, retrieval and reranking pipelines, MLOps systems and r
 
 **Open to working-student (Werkstudent) roles in AI, data, cloud and full-stack engineering, starting now.**
 
-[Portfolio](https://veer-pratap-singh-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/veer-pratap-singh07/) · [Email](mailto:veerrpratapsingh@gmail.com) · [X](https://x.com/veersingh0707)
+[Portfolio](https://veer-pratap-singh-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/veer-pratap-singh07/) · [Email](mailto:veerrpratapsingh@gmail.com)
 
 ### Selected work
 
