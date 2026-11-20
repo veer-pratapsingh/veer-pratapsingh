@@ -39,8 +39,8 @@ Retrieve-then-rerank on 10.6M OULAD clickstream events: collaborative filtering 
 <tr>
 <td width="50%" valign="top">
 
-**Airline satisfaction MLOps pipeline**<br>
-<sub>MLOps team project · OVGU 2026 · code on university GitLab</sub>
+**[Airline satisfaction MLOps pipeline](https://github.com/veer-pratapsingh/airline-satisfaction-mlops)**<br>
+<sub>MLOps team project · OVGU 2026</sub>
 
 Nine-step pipeline on ~130k records behind a four-stage GitLab CI/CD: Feast feature store, Optuna-tuned models tracked in MLflow, a ROC-AUC gate for champion and challenger promotion, FastAPI serving with an 80/20 traffic split, Grafana monitoring.
 
