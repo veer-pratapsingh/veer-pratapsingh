@@ -82,7 +82,7 @@ Real-time sign-language and hand-gesture recognition with deep learning and Open
 </tr>
 </table>
 
-Also: websites for hotels, bars and small businesses, built with Inderpreet Singh ([studio portfolio](https://veer-pratap-singh-portfolio.vercel.app)), and a Unity 6 training simulator of a biogas plant, built with chemical-engineering students.
+Also: websites for hotels, bars and small businesses, built with Inderpreet Singh ([studio portfolio](https://v-and-i-portfolio.vercel.app)), and a Unity 6 training simulator of a biogas plant, built with chemical-engineering students.
 
 ### Experience
 
